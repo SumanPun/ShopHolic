@@ -1,0 +1,54 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "E:\\Shoppy\\ShopholicServer\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{91F1EAB2-EA14-4C32-8CA1-4840BE41EB0D}|ShopholiClient\\ShopholiClient.csproj|e:\\shoppy\\shopholicserver\\shopholiclient\\_imports.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{91F1EAB2-EA14-4C32-8CA1-4840BE41EB0D}|ShopholiClient\\ShopholiClient.csproj|solutionrelative:shopholiclient\\_imports.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{91F1EAB2-EA14-4C32-8CA1-4840BE41EB0D}|ShopholiClient\\ShopholiClient.csproj|e:\\shoppy\\shopholicserver\\shopholiclient\\pages\\addorupdatecomponent.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{91F1EAB2-EA14-4C32-8CA1-4840BE41EB0D}|ShopholiClient\\ShopholiClient.csproj|solutionrelative:shopholiclient\\pages\\addorupdatecomponent.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "_Imports.razor",
+              "DocumentMoniker": "E:\\Shoppy\\ShopholicServer\\ShopholiClient\\_Imports.razor",
+              "RelativeDocumentMoniker": "ShopholiClient\\_Imports.razor",
+              "ToolTip": "E:\\Shoppy\\ShopholicServer\\ShopholiClient\\_Imports.razor",
+              "RelativeToolTip": "ShopholiClient\\_Imports.razor",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAjAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-03-22T11:50:34.95Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "AddOrUpdateComponent.razor",
+              "DocumentMoniker": "E:\\Shoppy\\ShopholicServer\\ShopholiClient\\Pages\\AddOrUpdateComponent.razor",
+              "RelativeDocumentMoniker": "ShopholiClient\\Pages\\AddOrUpdateComponent.razor",
+              "ToolTip": "E:\\Shoppy\\ShopholicServer\\ShopholiClient\\Pages\\AddOrUpdateComponent.razor",
+              "RelativeToolTip": "ShopholiClient\\Pages\\AddOrUpdateComponent.razor",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAEAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-03-22T11:47:48.933Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

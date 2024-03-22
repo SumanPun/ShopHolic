@@ -1,0 +1,11 @@
+E:\Shoppy\ShopholicServer\ShopholiSharedLibrary\bin\Debug\net8.0\ShopholiSharedLibrary.deps.json
+E:\Shoppy\ShopholicServer\ShopholiSharedLibrary\bin\Debug\net8.0\ShopholiSharedLibrary.dll
+E:\Shoppy\ShopholicServer\ShopholiSharedLibrary\bin\Debug\net8.0\ShopholiSharedLibrary.pdb
+E:\Shoppy\ShopholicServer\ShopholiSharedLibrary\obj\Debug\net8.0\ShopholiSharedLibrary.GeneratedMSBuildEditorConfig.editorconfig
+E:\Shoppy\ShopholicServer\ShopholiSharedLibrary\obj\Debug\net8.0\ShopholiSharedLibrary.AssemblyInfoInputs.cache
+E:\Shoppy\ShopholicServer\ShopholiSharedLibrary\obj\Debug\net8.0\ShopholiSharedLibrary.AssemblyInfo.cs
+E:\Shoppy\ShopholicServer\ShopholiSharedLibrary\obj\Debug\net8.0\ShopholiSharedLibrary.csproj.CoreCompileInputs.cache
+E:\Shoppy\ShopholicServer\ShopholiSharedLibrary\obj\Debug\net8.0\ShopholiSharedLibrary.dll
+E:\Shoppy\ShopholicServer\ShopholiSharedLibrary\obj\Debug\net8.0\refint\ShopholiSharedLibrary.dll
+E:\Shoppy\ShopholicServer\ShopholiSharedLibrary\obj\Debug\net8.0\ShopholiSharedLibrary.pdb
+E:\Shoppy\ShopholicServer\ShopholiSharedLibrary\obj\Debug\net8.0\ref\ShopholiSharedLibrary.dll

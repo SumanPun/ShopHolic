@@ -1,0 +1,57 @@
+{
+  "Files": [
+    {
+      "Id": "E:\\Shoppy\\ShopholicServer\\ShopholiClient\\bin\\Debug\\net8.0\\wwwroot\\_framework\\blazor.webassembly.js",
+      "PackagePath": "staticwebassets\\_framework\\blazor.webassembly.js"
+    },
+    {
+      "Id": "E:\\Shoppy\\ShopholicServer\\ShopholiClient\\obj\\Debug\\net8.0\\compressed\\tmqzjpm4oz.gz",
+      "PackagePath": "staticwebassets\\_framework\\blazor.webassembly.js.gz"
+    },
+    {
+      "Id": "E:\\Shoppy\\ShopholicServer\\ShopholiClient\\obj\\Debug\\net8.0\\scopedcss\\bundle\\ShopholiClient.styles.css",
+      "PackagePath": "staticwebassets\\ShopholiClient.styles.css"
+    },
+    {
+      "Id": "E:\\Shoppy\\ShopholicServer\\ShopholiClient\\wwwroot\\css\\app.css",
+      "PackagePath": "staticwebassets\\css\\app.css"
+    },
+    {
+      "Id": "E:\\Shoppy\\ShopholicServer\\ShopholiClient\\wwwroot\\css\\bootstrap\\bootstrap.min.css",
+      "PackagePath": "staticwebassets\\css\\bootstrap\\bootstrap.min.css"
+    },
+    {
+      "Id": "E:\\Shoppy\\ShopholicServer\\ShopholiClient\\wwwroot\\css\\bootstrap\\bootstrap.min.css.map",
+      "PackagePath": "staticwebassets\\css\\bootstrap\\bootstrap.min.css.map"
+    },
+    {
+      "Id": "E:\\Shoppy\\ShopholicServer\\ShopholiClient\\wwwroot\\favicon.png",
+      "PackagePath": "staticwebassets\\favicon.png"
+    },
+    {
+      "Id": "E:\\Shoppy\\ShopholicServer\\ShopholiClient\\wwwroot\\icon-192.png",
+      "PackagePath": "staticwebassets\\icon-192.png"
+    },
+    {
+      "Id": "E:\\Shoppy\\ShopholicServer\\ShopholiClient\\wwwroot\\index.html",
+      "PackagePath": "staticwebassets\\index.html"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.ShopholiClient.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.build.ShopholiClient.props",
+      "PackagePath": "build\\ShopholiClient.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.buildMultiTargeting.ShopholiClient.props",
+      "PackagePath": "buildMultiTargeting\\ShopholiClient.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.buildTransitive.ShopholiClient.props",
+      "PackagePath": "buildTransitive\\ShopholiClient.props"
+    }
+  ],
+  "ElementsToRemove": []
+}
